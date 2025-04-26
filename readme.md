@@ -1,31 +1,51 @@
-Basics
-https://github.com/metigator
+# Software Development Learning Resources
 
-C# assignments:
-https://mega.nz/folder/vVBUkKTL#Eb7lSZCiEr2cnpElH76A9Q/folder/aUREGLLC
+This repository contains curated resources for learning various software development concepts and technologies.
 
-Data Bases:
-https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE
+## Core Programming
+- **C# Basics & Assignments**:  
+  [Mega.nz Folder](https://mega.nz/folder/vVBUkKTL#Eb7lSZCiEr2cnpElH76A9Q/folder/aUREGLLC)
 
-UML Diagrams:
-https://www.youtube.com/watch?v=WnMQ8HlmeXc
+## Database Systems
+- **Database Fundamentals**:  
+  [YouTube Playlist](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E6qEfFluE)
 
-html- css - java script and their applications:
-https://www.youtube.com/playlist?list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J
+## Software Design
+- **UML Diagrams**:  
+  [YouTube Tutorial](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
+- **Unit of Work Pattern**:  
+  [YouTube Playlist](https://www.youtube.com/playlist?list=PL62tSREI9C-e6nQ47brLj00iSGddiee73)
 
-MVC Crestine Lectures:
-https://mega.nz/folder/vVBUkKTL#Eb7lSZCiEr2cnpElH76A9Q/folder/TJBCUJJC
+## Web Development
+- **HTML, CSS & JavaScript**:  
+  [YouTube Playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J)
+- **MVC Pattern**:  
+  [Lectures (Mega.nz)](https://mega.nz/folder/vVBUkKTL#Eb7lSZCiEr2cnpElH76A9Q/folder/TJBCUJJC)
+- **MVC Project**:  
+  [YouTube Playlist](https://www.youtube.com/playlist?list=PL82C6-O4XrHde_urqhKJHH-HTUfTK6siO)
 
-MVC project:
-https://www.youtube.com/playlist?list=PL82C6-O4XrHde_urqhKJHH-HTUfTK6siO
+## API Development
+- **API Fundamentals**:  
+  [YouTube Playlist](https://www.youtube.com/playlist?list=PLcvTyQIWJ_ZpumOgCCify-wDY_G-Kx34a)
+- **API Project (Skip Angular Videos)**:  
+  [YouTube Playlist](https://www.youtube.com/watch?v=6oaOefxmegk&list=PLaR3RrvBxlc3c8NAtlAXRwx43ZdH8eBrQ)
 
-unit of work pattern:
-https://www.youtube.com/playlist?list=PL62tSREI9C-e6nQ47brLj00iSGddiee73
+## Containerization
+- **Docker**:  
+  [YouTube Tutorial](https://www.youtube.com/watch?v=PrusdhS2lmo)
 
-Api:
-https://www.youtube.com/playlist?list=PLcvTyQIWJ_ZpumOgCCify-wDY_G-Kx34a
+## Additional Resources
+- **GitHub Profile**:  
+  [metigator on GitHub](https://github.com/metigator)
 
-Api project: --skip angular videos
-https://www.youtube.com/watch?v=6oaOefxmegk&list=PLaR3RrvBxlc3c8NAtlAXRwx43ZdH8eBrQ
-Docker:
-https://www.youtube.com/watch?v=PrusdhS2lmo 
+---
+
+### How to Use These Resources
+1. Start with core programming (C#) if you're new to development
+2. Move to database concepts and software design patterns
+3. Explore web development with MVC
+4. Learn API development
+5. Finish with containerization using Docker
+
+### Contribution
+Suggestions for additional quality resources are welcome!
