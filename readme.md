@@ -3,7 +3,10 @@
 This repository contains curated resources for learning various software development concepts and technologies.
 
 ## Core Programming
-- **C# Basics & Assignments**:  
+- **C# Basics**:
+   [metigator on GitHub](https://github.com/metigator)
+
+- **Assignments**:  
   [Mega.nz Folder](https://mega.nz/folder/vVBUkKTL#Eb7lSZCiEr2cnpElH76A9Q/folder/aUREGLLC)
 
 ## Database Systems
@@ -34,11 +37,7 @@ This repository contains curated resources for learning various software develop
 - **Docker**:  
   [YouTube Tutorial](https://www.youtube.com/watch?v=PrusdhS2lmo)
 
-## Additional Resources
-- **GitHub Profile**:  
-  [metigator on GitHub](https://github.com/metigator)
 
----
 
 ### How to Use These Resources
 1. Start with core programming (C#) if you're new to development
