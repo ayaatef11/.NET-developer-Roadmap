@@ -3,10 +3,10 @@
 This repository contains curated resources for learning various software development concepts and technologies.
 
 ## Core Programming
-- **C# Basics**:
-   [metigator on GitHub](https://github.com/metigator)
+- **Basics**:
+   [metigator on GitHub](https://github.com/metigator/Roadmap)
 
-- **Assignments**:  
+- **C# Assignments**:  
   [Mega.nz Folder](https://mega.nz/folder/vVBUkKTL#Eb7lSZCiEr2cnpElH76A9Q/folder/aUREGLLC)
 
 ## Database Systems
