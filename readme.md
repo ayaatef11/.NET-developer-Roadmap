@@ -23,15 +23,15 @@ This repository contains curated resources for learning various software develop
 - **HTML, CSS & JavaScript**:  
   [YouTube Playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J)
 - **MVC Pattern**:  
-  [Lectures (Mega.nz)](https://mega.nz/folder/vVBUkKTL#Eb7lSZCiEr2cnpElH76A9Q/folder/TJBCUJJC)
+  [Lectures (Mega.nz)](https://mega.nz/folder/vVBUkKTL#Eb7lSZCiEr2cnpElH76A9Q/folder/mMIwSZgQ)
 - **MVC Project**:  
-  [YouTube Playlist](https://www.youtube.com/playlist?list=PL82C6-O4XrHde_urqhKJHH-HTUfTK6siO)
+  [Project YouTube Playlist](https://www.youtube.com/playlist?list=PL82C6-O4XrHde_urqhKJHH-HTUfTK6siO)
 
 ## API Development
 - **API Fundamentals**:  
-  [YouTube Playlist](https://www.youtube.com/playlist?list=PLcvTyQIWJ_ZpumOgCCify-wDY_G-Kx34a)
+  [Topics YouTube Playlist](https://www.youtube.com/playlist?list=PLcvTyQIWJ_ZpumOgCCify-wDY_G-Kx34a)
 - **API Project (Skip Angular Videos)**:  
-  [YouTube Playlist](https://www.youtube.com/watch?v=6oaOefxmegk&list=PLaR3RrvBxlc3c8NAtlAXRwx43ZdH8eBrQ)
+  [Projects YouTube Playlist](https://www.youtube.com/watch?v=6oaOefxmegk&list=PLaR3RrvBxlc3c8NAtlAXRwx43ZdH8eBrQ)
 
 ## Containerization
 - **Docker**:  
