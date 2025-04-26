@@ -1,6 +1,6 @@
 # Software Development Learning Resources
 
-This repository contains curated resources for learning various software development concepts and technologies.
+This repository contains curated resources for learning .NET Core
 
 ## Core Programming
 - **Basics**:
