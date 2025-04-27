@@ -29,8 +29,8 @@ This repository contains curated resources for learning .NET Core
 
 ## Security
 - **JWT**:
--[Topics Playlist]( https://www.youtube.com/playlist?list=PL62tSREI9C-foV0zXVpW_f0JNtTD6Wv2W)
--[Topics playlist](https://www.youtube.com/playlist?list=PL62tSREI9C-eYNE1Pyw0yv1tETs5V8WGd)
+ - [Topics Playlist]( https://www.youtube.com/playlist?list=PL62tSREI9C-foV0zXVpW_f0JNtTD6Wv2W)
+ - [Topics playlist](https://www.youtube.com/playlist?list=PL62tSREI9C-eYNE1Pyw0yv1tETs5V8WGd)
 ## API Development
 - **API Fundamentals**:  
   [Topics YouTube Playlist](https://www.youtube.com/playlist?list=PLcvTyQIWJ_ZpumOgCCify-wDY_G-Kx34a)
