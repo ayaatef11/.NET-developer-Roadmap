@@ -22,6 +22,8 @@ This repository contains curated resources for learning .NET Core
 ## Web Development
 - **HTML, CSS & JavaScript**:  
   [YouTube Playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J)
+- **Bootstrap**:
+- (youtube Playlist)[https://www.youtube.com/playlist?list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ]  
 - **MVC Pattern**:  
   [Lectures (Mega.nz)](https://mega.nz/folder/vVBUkKTL#Eb7lSZCiEr2cnpElH76A9Q/folder/mMIwSZgQ)
 - **MVC Project**:  
