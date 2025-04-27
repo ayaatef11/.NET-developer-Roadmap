@@ -1,4 +1,4 @@
-# Software Development Learning Resources
+# .NET Learning Resources
 
 This repository contains curated resources for learning .NET Core
 
