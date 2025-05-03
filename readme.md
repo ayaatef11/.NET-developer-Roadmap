@@ -46,6 +46,8 @@ This repository contains curated resources for learning .NET Core
 ## Containerization
 - **Docker**:  
   [YouTube Tutorial](https://www.youtube.com/watch?v=PrusdhS2lmo)
+- **Github Actions**:  
+  [YouTube Tutorial](https://www.youtube.com/watch?v=QDlIo97ibxY)
 
 
 
