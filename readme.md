@@ -23,7 +23,7 @@ This repository contains curated resources for learning .NET Core
 - **HTML, CSS & JavaScript**:  
   [YouTube Playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J)
 - **Bootstrap**:
-- (youtube Playlist)[https://www.youtube.com/playlist?list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ]  
+- [youtube Playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ) 
 - **MVC Pattern**:  
   [Lectures (Mega.nz)](https://mega.nz/folder/vVBUkKTL#Eb7lSZCiEr2cnpElH76A9Q/folder/mMIwSZgQ)
 - **MVC Project**:  
@@ -38,6 +38,10 @@ This repository contains curated resources for learning .NET Core
   [Topics YouTube Playlist](https://www.youtube.com/playlist?list=PLcvTyQIWJ_ZpumOgCCify-wDY_G-Kx34a)
 - **Signalr**:
   - [ITI playlist](https://www.youtube.com/playlist?list=PLesfn4TAj57WLtiWtHP1Xkel7WD6QHvpe)
+## Testing 
+- **Unit Testing and Integration Testing **:  
+  [Topics YouTube Playlist](https://www.youtube.com/playlist?list=PLOeFnOV9YBa4Q1a7V5jWTGG9RSpKMYTpK)
+
 
 - **API Project (Skip Angular Videos)**:  
   [Projects YouTube Playlist](https://www.youtube.com/watch?v=6oaOefxmegk&list=PLaR3RrvBxlc3c8NAtlAXRwx43ZdH8eBrQ)
@@ -57,7 +61,8 @@ This repository contains curated resources for learning .NET Core
 2. Move to database concepts and software design patterns
 3. Explore web development with MVC
 4. Learn API development
-5. Finish with containerization using Docker
+5. Learn Testing
+6. Finish with containerization using Docker
 
 ### Contribution
 Suggestions for additional quality resources are welcome!
