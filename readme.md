@@ -28,6 +28,7 @@ This repository contains curated resources for learning .NET Core
   [Lectures (Mega.nz)](https://mega.nz/folder/vVBUkKTL#Eb7lSZCiEr2cnpElH76A9Q/folder/mMIwSZgQ)
 - **MVC Project**:  
   [Project YouTube Playlist](https://www.youtube.com/playlist?list=PL82C6-O4XrHde_urqhKJHH-HTUfTK6siO)
+  [Project YouTube Playlist](https://www.youtube.com/playlist?list=PLzHIrc5EQ2su5LFfHqovbCHgFVIRvBqGo)
 
 ## Security
 - **JWT**:
