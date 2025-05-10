@@ -57,6 +57,8 @@ This repository contains curated resources for learning .NET Core
   [YouTube Tutorial](https://www.youtube.com/watch?v=bhtE75RiN04)
 - **Publishing**:  
   [YouTube Tutorial](https://www.youtube.com/watch?v=dU16ESUZljM)
+- **Git Flows**:  
+  [YouTube Tutorial](https://www.youtube.com/watch?v=__2riOjLpoc)
 
 
 ### How to Use These Resources
