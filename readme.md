@@ -42,7 +42,7 @@ This repository contains curated resources for learning .NET Core
 ## Testing 
 - **Unit Testing and Integration Testing **:  
   [Topics YouTube Playlist](https://www.youtube.com/playlist?list=PLOeFnOV9YBa4Q1a7V5jWTGG9RSpKMYTpK)
-
+[Tedy Smith youtube playlist](https://www.youtube.com/playlist?list=PL82C6-O4XrHeyeJcI5xrywgpfbrqdkQd4)
 
 - **API Project (Skip Angular Videos)**:  
   [Projects YouTube Playlist](https://www.youtube.com/watch?v=6oaOefxmegk&list=PLaR3RrvBxlc3c8NAtlAXRwx43ZdH8eBrQ)
