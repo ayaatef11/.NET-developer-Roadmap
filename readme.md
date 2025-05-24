@@ -46,7 +46,8 @@ This repository contains curated resources for learning .NET Core
 - **Automation Testing with Selenium **:
    - [Execute Automation](https://www.youtube.com/watch?v=ANHMNIUPNSY&list=PL6tu16kXT9Pr50Bu96uf9z4rNxMTVTIxm)
 -**API Testing using postman **:
-  - [conan School](https://www.youtube.com/playlist?list=PLbw0NwfOlr_xCz2JYvjTPp_JcpWXLBRpa) 
+  - [conan School](https://www.youtube.com/playlist?list=PLbw0NwfOlr_xCz2JYvjTPp_JcpWXLBRpa)
+  - [performance testing](https://www.youtube.com/watch?v=8Wa0N9Y1W5A)
 
 - **API Project (Skip Angular Videos)**:  
   [Projects YouTube Playlist](https://www.youtube.com/watch?v=6oaOefxmegk&list=PLaR3RrvBxlc3c8NAtlAXRwx43ZdH8eBrQ)
