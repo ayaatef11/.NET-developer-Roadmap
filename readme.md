@@ -42,6 +42,7 @@ This repository contains curated resources for learning .NET Core
 ## Testing 
 - **Unit Testing and Integration Testing **:  
   - [Tedy Smith youtube playlist](https://www.youtube.com/playlist?list=PL82C6-O4XrHeyeJcI5xrywgpfbrqdkQd4)
+  - [integration testing with cqrs](https://www.youtube.com/watch?v=U7YqxPni04s)
 - **Automation Testing with Selenium **:
    - [Execute Automation](https://www.youtube.com/watch?v=ANHMNIUPNSY&list=PL6tu16kXT9Pr50Bu96uf9z4rNxMTVTIxm)
 -**API Testing using postman **:
